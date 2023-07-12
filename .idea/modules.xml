@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/WZBC-Mathematical-Modeling.iml" filepath="$PROJECT_DIR$/.idea/WZBC-Mathematical-Modeling.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../WZBC-Python/.idea/WZBC-Python.iml" filepath="$PROJECT_DIR$/../WZBC-Python/.idea/WZBC-Python.iml" />
     </modules>
   </component>
 </project>
