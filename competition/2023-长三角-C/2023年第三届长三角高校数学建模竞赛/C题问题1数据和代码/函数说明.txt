@@ -1,5 +1,3 @@
-Entropy_Method.m 是熵权法计算权重的函数
-mylog.m  用于替代MATLAB中的log函数，因为计算熵权法时需要判断p=0
-code_Monte_Carlo.m 是用来蒙特卡洛模拟的函数
-inter2Max.m、Mid2Max.m、Min2Max.m、Positivization.m是用来正向化的函数
-topsis是主函数
+version https://git-lfs.github.com/spec/v1
+oid sha256:915ddcb5a864f1b1e22f12817fe0b08bff895d8451a4dc1d370ea1094b5dfa92
+size 236
